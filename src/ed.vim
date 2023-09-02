@@ -1,12 +1,11 @@
-syntax keyword ednaldoKeywords 
-			\ vamos procurar viver em igualdade com
+syntax keyword ednaldoKeywords vamos procurar viver em igualdade com
 			\ respondeu
 			\ é igual ao que ?
 			\ entre qual é a diferença ,
 			\ what is the brother sister ou
 			\ fale o que quiser com
 
-syntax Keyword ednaldoCondicionais voce quer ser tudo e não é de nada
+syntax keyword ednaldoCondicionais voce quer ser tudo e não é de nada
 			\ eu não vou parar de mesclar enquanto assim continuar
 
 syntax keyword ednaldoDefinicoes is the sister
