@@ -30,4 +30,4 @@ highlight link ednaldoVariable2 Constant
 
 highlight link ednaldoKeywords Keyword
 highlight link ednaldoCondicionais Statement
-highlight link ednaldoDefinicoes 
+highlight link ednaldoDefinicoes Type
